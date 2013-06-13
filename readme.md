@@ -2,7 +2,7 @@ jQuery Plugin Patterns
 ----------------------------
 This is a collection of some great jQuery pluin templates which can help the developers to create their own jQuery plugins quickly.
 
-I prefer to use the first one, but all of them can help me to understanding jQuery plugin mechanism well.
+I prefer to use the first one (jquery.boilerplate.js), but all of them can help me to understanding jQuery plugin mechanism well.
 
 Notes about jQuery plugin development
 -------------------------------------
@@ -38,12 +38,12 @@ $.myPlugin();
 jQuery Plugin Patterns LIST
 ------------------------------
 
-jquery.boilerplate.js
+1) jquery.boilerplate.js
 
 http://jqueryboilerplate.com/
 
 
-jquery.wBoiler.js
+2) jquery.wBoiler.js
 
 http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate
 
@@ -52,7 +52,7 @@ http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-p
 http://www.websanova.com/tutorials/jquery/10-coding-tips-to-write-superior-jquery-plugins
 
 
-jquery.hilight.js
+3) jquery.hilight.js
 
 [Tutorial]
 http://www.learningjquery.com/2007/10/a-plugin-development-pattern
@@ -60,13 +60,13 @@ http://www.learningjquery.com/2007/10/a-plugin-development-pattern
 [中文翻译]http://www.iteye.com/topic/545971
 
 
-jquery.pixel.progressbar.js
+4) jquery.pixel.progressbar.js
 
 [online generation tool]
 http://starter.pixelgraphics.us/
 
 
-jquery.plugin.js
+5) jquery.plugin.js
 
 jquery.plugin.oop.js  (OOP version)
 
@@ -75,12 +75,13 @@ http://stefangabos.ro/jquery/jquery-plugin-boilerplate-revisited/
 http://stefangabos.ro/jquery/jquery-plugin-boilerplate-oop/
 
 
-jquery.plugin.global.js  (Template of plugin that does not work on an element)
+6) jquery.plugin.global.js  (Template of plugin that does not work on an element)
 
 jquery.plugin.element.js (Template of plugin that does work on an element)
 
 http://www.webdeveasy.com/jquery-plugin-pattern/
 
+-----------------
 
 A great tutorial on jQuery plugin patterns:
 
