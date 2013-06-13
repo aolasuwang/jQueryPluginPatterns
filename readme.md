@@ -28,7 +28,7 @@ They are actually functions that located in the jQuery object (or $):
 $.myPlugin = function() {
   ... //plugin content
 }
-
+```
 Usage is like this:
 ```javascript
 $.myPlugin();
